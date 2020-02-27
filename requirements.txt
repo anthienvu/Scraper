@@ -1,0 +1,8 @@
+beautifulsoup4
+dash
+Flask
+gunicorn
+pandas
+requests
+six
+validate_email
