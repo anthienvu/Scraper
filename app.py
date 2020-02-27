@@ -1,14 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-Created on Thu Feb 20 20:44:06 2020
+Created on Thu Feb 27 20:44:06 2020
 
 @author: trungminh
-
-Computing Aggregations Upfront
-
-Sending the computed data over the network can be expensive if the data is large.
-In some cases, serializing this data and JSON can also be expensive.
 '''
 
 
